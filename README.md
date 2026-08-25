@@ -2,10 +2,12 @@
 
 Predicting which customers are about to leave — before they do — so a telecom business can step in with retention offers instead of finding out after the fact.
 
+try [live app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
+
 ## The Problem
 
 Customer churn is expensive: acquiring a new customer costs far more than retaining an existing one. This project builds a classification model that flags at-risk customers from their account and service data, tuned specifically to catch as many real churners as possible — because for a retention team, missing a real churner is far costlier than a wasted retention offer on someone who was staying anyway.
-try [live app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
+
 
 ## Key Insight
 
