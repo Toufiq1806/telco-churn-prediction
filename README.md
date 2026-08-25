@@ -5,6 +5,7 @@ Predicting which customers are about to leave — before they do — so a teleco
 ## The Problem
 
 Customer churn is expensive: acquiring a new customer costs far more than retaining an existing one. This project builds a classification model that flags at-risk customers from their account and service data, tuned specifically to catch as many real churners as possible — because for a retention team, missing a real churner is far costlier than a wasted retention offer on someone who was staying anyway.
+try [live app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
 
 ## Key Insight
 
@@ -80,11 +81,6 @@ jupyter notebook Churn_Analysis_Notebook.ipynb
 ## Dataset
 
 [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — 7,043 customers.
-
-## Status
-
-Model trained, evaluated, and saved (`churn_model.pkl`).
-try [live app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
 
 ---
 *Built by [Toufiq](https://github.com/Toufiq1806)*
