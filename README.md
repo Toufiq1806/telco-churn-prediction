@@ -84,7 +84,7 @@ jupyter notebook Churn_Analysis_Notebook.ipynb
 ## Status
 
 Model trained, evaluated, and saved (`churn_model.pkl`).
-try [Streamlit app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
+try [live app](https://telco-churn-prediction-5fp4jhn7grdgvrx4bvba9b.streamlit.app/)
 
 ---
 *Built by [Toufiq](https://github.com/Toufiq1806)*
