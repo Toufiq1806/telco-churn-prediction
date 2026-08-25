@@ -62,7 +62,7 @@ Chose **0.35** — catches significantly more real churners (71% vs. 55% at defa
 
 Beyond flagging *who* is at risk, SHAP explains *why* — critical for a retention team deciding what offer might actually keep a specific customer.
 
-![SHAP Summary Plot](images/shap_summary.png)
+![SHAP Summary Plot](images/shap.png)
 
 Confirms the EDA and model coefficients: tenure and contract type dominate, fiber optic and electronic check push risk up.
 
